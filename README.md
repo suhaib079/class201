@@ -12,8 +12,8 @@
 | read4 | [read4](https://suhaib079.github.io/class201/read4) |
 | read5 | [read5](https://suhaib079.github.io/class201/read5) |
 | read6 | [read6](https://suhaib079.github.io/class201/read6) |
-| read7 | [read6](https://suhaib079.github.io/class201/read7) |
-| read8 | [read6](https://suhaib079.github.io/class201/read8) |
+| read7 | [read7](https://suhaib079.github.io/class201/read7) |
+| read8 | [read8](https://suhaib079.github.io/class201/read8) |
 
 
 
