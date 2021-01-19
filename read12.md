@@ -1,5 +1,5 @@
  # Useage of canvas 
-Using the element <canvas>  it looks like the img tag but dont have src tag it has width and hight , it can be stylied just like the image .
+Using the element **canvas**  it looks like the img tag but dont have src tag it has width and hight , it can be stylied just like the image .
 Fall back content 
 Its so easy just just insert the alternate content inside the <canvas> element. Browsers that don't support <canvas> will ignore the container and render the fallback content inside it.
 Note that you should use the closing tag 
@@ -9,9 +9,9 @@ The script includes a function called draw(), which is executed once the page fi
 Drowning shaps with canvas
 HTML skeleton from the previous page had a canvas element 150 pixels wide and 150 pixels high. To the right, you see this canvas with the default grid overlayed
 Drawing  rectangular 
-<canvas> only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths
-Fellrect(x.y.width .hight)
-Drawing path.
+<canvas> only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths.
+> Fellrect(x.y.width .hight)
+# Drawing path.
 1.  First, you create the path.
  
 2. Then you use drawing commands to draw into the path.
